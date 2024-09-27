@@ -1,0 +1,13 @@
+jgtutils
+jupyter-book
+matplotlib
+numpy
+jupytext
+katex
+strip-tags
+cookiecutter
+llm
+xlsx2csv
+openpyxl
+orpheuspypractice
+jgwillhub
